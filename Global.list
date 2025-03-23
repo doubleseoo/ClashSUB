@@ -9,7 +9,8 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 31392
-DOMAIN,blackhatworld.com
+DOMAIN-SUFFIX,adspower.net
+DOMAIN-SUFFIX,blackhatworld.com
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
